@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3534a00a-4945-4a7d-8922-a81ce5b2c9a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/listview/APIClient.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/listview/ApiInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/listview/Company.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/listview/CompanyCurrency.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/listview/RecyclerAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/innerlayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvvm/app/src/main/java/com/example/mvvm/adapter/CustomAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvvm/app/src/main/java/com/example/mvvm/model/Company.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvvm/app/src/main/java/com/example/mvvm/viewmodel/CompanyViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mvvm/app/src/main/res/layout/innerlayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/PersonalInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/PersonalInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/UI/CompanyViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/UI/CompanyViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/UI/CompanyViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/UI/CompanyViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/Company.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/Company.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/Database.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/Database.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/FakeCompanyData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/FakeCompanyData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/data/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/model/Company.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/utility/InjectorUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/utility/InjectorUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/com/example/myapplication/viewmodel/CompanyViewModel.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jv1qV0u6UbmsCroQWhZocb2CPE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3534a00a-4945-4a7d-8922-a81ce5b2c9a1" name="Default Changelist" comment="" />
+      <created>1604669941295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604669941295</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1604671736140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604671736140" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604678450027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604678450027" />
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1604684454653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604684454653" />
+    <state x="540" y="257" width="286" height="286" key="Github.ShareDialog" timestamp="1604684162600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="540" y="257" width="286" height="286" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604684162600" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1604672457033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604672457033" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1604672457033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604672457033" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1604672457033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604672457033" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1604672457033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604672457033" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/listview/RecyclerAdapter.kt</url>
+          <line>8</line>
+          <properties class="com.example.listview.RecyclerAdapter" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
